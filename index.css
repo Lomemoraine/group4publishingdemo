@@ -1,0 +1,41 @@
+body{
+    background-color: green;
+}
+.content1 {
+    width: 80vw;
+    
+    position: relative;
+    background-color: #FFE400;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+h1{
+    font-family: 'Courgette', cursive;
+    
+}
+.content1 p{
+    font-family: 'K2D', sans-serif;
+    font-weight: bold;
+    color: #FF1700;
+    font-size: large;
+}
+.whatWeDo{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+}
+.bool{
+    display: flex;
+    justify-content: center;
+}
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
